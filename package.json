@@ -1,0 +1,20 @@
+{
+  "name": "fizzbuzz-inquirer",
+  "version": "0.0.1",
+  "description": "A CLI application that will take in user input and run a FizzBuzz like algorithm with that input",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "FizzBuzz",
+    "Inquirer",
+    "unit",
+    "test"
+  ],
+  "author": "Eric Stanulis",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
